@@ -1,5 +1,5 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "shohid-chat-bot",
   "version": "2.0.0",
   "description": "Made By SHAHADAT SAHU",
   "main": "Main.js",
@@ -27,7 +27,7 @@
     "shahadat sahu",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "SHOHID VAI",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
